@@ -1,4 +1,4 @@
-package school.sptech.logica;
+package sptech.school.logica;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.TestInstance;
